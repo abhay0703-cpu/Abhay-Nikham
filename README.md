@@ -41,7 +41,7 @@ Blockchain-based public integrity verification system against procrastinating au
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay0703-cpu&layout=compact&theme=tokyonight)
 
 ---
-🌐 Connect With Me
+🌐 Connect With Me <br>
 LinkedIn : https://www.linkedin.com/in/abhay-nikham-42502530b/<br>
 Email : abhay.geetha777@gmail.com <br>
 ⭐ “Consistency beats motivation.”
