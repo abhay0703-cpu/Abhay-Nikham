@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhay
 
-🚀 Aspiring DevOps & Cloud Engineer
+🚀 DevOps & Cloud Engineer
 ☁️ Learning AWS, Docker, Kubernetes, Linux & CI/CD
 
 ---
