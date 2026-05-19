@@ -36,9 +36,9 @@ Blockchain-based public integrity verification system against procrastinating au
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhay0703-cpu\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay0703-cpu&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay0703-cpu\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay0703-cpu&layout=compact&theme=tokyonight)
 
 ---
 🌐 Connect With Me
