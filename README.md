@@ -24,22 +24,9 @@
 
 Secure text file storage using AWS EC2, VPC, public/private subnet and Linux access controls.
 
-### 🔹 Docker HTML Deployment
-
-Simple HTML website deployed using Docker containerization.
-
 ### 🔹 Blockchain Cloud Storage Verification
 
 Blockchain-based public integrity verification system against procrastinating auditors.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay0703-cpu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay0703-cpu&layout=compact&theme=tokyonight)
-
 ---
 🌐 Connect With Me <br>
 LinkedIn : https://www.linkedin.com/in/abhay-nikham-42502530b/<br>
