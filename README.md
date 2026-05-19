@@ -42,6 +42,6 @@ Blockchain-based public integrity verification system against procrastinating au
 
 ---
 🌐 Connect With Me
-LinkedIn : https://www.linkedin.com/in/abhay-nikham-42502530b/
-Email : abhay.geetha777@gmail.com
+LinkedIn : https://www.linkedin.com/in/abhay-nikham-42502530b/<br>
+Email : abhay.geetha777@gmail.com <br>
 ⭐ “Consistency beats motivation.”
