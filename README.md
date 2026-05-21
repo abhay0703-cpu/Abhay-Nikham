@@ -17,16 +17,6 @@
 * Apache
 
 ---
-
-## 📂 Projects
-
-### 🔹 AWS EC2 Secure Storage Project
-
-Secure text file storage using AWS EC2, VPC, public/private subnet and Linux access controls.
-
-### 🔹 Blockchain Cloud Storage Verification
-
-Blockchain-based public integrity verification system against procrastinating auditors.
 ---
 🌐 Connect With Me <br>
 LinkedIn : https://www.linkedin.com/in/abhay-nikham-42502530b/<br>
